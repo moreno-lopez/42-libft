@@ -97,4 +97,3 @@ To use this library in your own project, include the header and link the `.a` fi
 #### Use of AI
 AI (Gemini) was used as a support tool to aid in the analysis and understanding of the project’s underlying logic : 
 * **Valgrind Debugging:** The AI helped me interpret Valgrind error messages, such as "Invalid read" or "Conditional jump," allowing me to identify where I was missing NULL pointer protections or failing to free memory.
-* **Complex Logic:** It helped me visualize the ciplexity in `ft_lstmap` logic
